@@ -55,3 +55,7 @@ This app uses the MyMemory Translation API for language translation. You can obt
 
 - [MyMemory Translation API](https://mymemory.translated.net/doc/spec.php) for language translation service.
 - Icons used in the app are from [FontAwesome](https://fontawesome.com/).
+
+
+## Gif
+![](translator.gif)
