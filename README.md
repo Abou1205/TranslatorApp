@@ -18,7 +18,7 @@ Translator App is a simple web application that allows users to translate text f
 
 ## Demo
 
-[View Demo]()
+[View Demo](https://translatorjsapp.netlify.app)
 
 ## Getting Started
 
