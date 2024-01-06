@@ -31,7 +31,7 @@ Translator App is a simple web application that allows users to translate text f
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/translator-app.git
+   git clone https://github.com/Abou1205/translator-app.git
    ```
 
 2. Open `index.html` in your web browser.
